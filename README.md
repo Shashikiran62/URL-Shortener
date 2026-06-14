@@ -198,7 +198,7 @@ The application uses a simple URL model:
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SOORAJ04/URL-Shortener/main/Output/Screenshot%202025-10-07%20095303.png" width="600" />
+  <img src="https://github.com/Shashikiran62/URL-Shortener/blob/main/Output/image1.png?raw=true" width="600" />
 </p>
 
 
